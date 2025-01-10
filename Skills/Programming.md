@@ -4,20 +4,20 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm u
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
   - Module
-  - Library
+  - Library h
   - Package
   - Component
-  - Framework
+  - Framework h
   - Platform
   - Source code
   - Object code
@@ -32,18 +32,18 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method k
+  - Class k
   - Prototype
   - Event
   - Type
@@ -81,13 +81,13 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature k
+  - Argument u
+  - Parameter u
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
   - Higher order
@@ -96,7 +96,7 @@
   - Callback
   - Listener
   - Composition
-  - Pipe
+  - Pipe h
   - Memoize
   - Wrapper
   - Functor
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
   - Set
   - Hash table
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -153,19 +153,19 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring h
+  - Code review h
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git k
+  - Github k
   - Docker
   - Kubernetes
   - GCC
@@ -203,22 +203,22 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 h
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers h
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux k
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
