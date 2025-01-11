@@ -6,9 +6,9 @@
   - Subject domain
   - Algorithm u
   - Syntax u
-  - Semantics
+  - Semantics h
   - Abstraction
-  - Paradigm
+  - Paradigm h
   - Programm u
   - Programming paradigm
   - Programming language u
@@ -44,17 +44,17 @@
   - Procedure
   - Method k
   - Class k
-  - Prototype
+  - Prototype h
   - Event
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops k
   - Assignment
   - Regular expression
-  - Interface
+  - Interface h
   - Namespaces
   - Call stack
   - Naming conventions
@@ -84,16 +84,16 @@
   - Signature k
   - Argument u
   - Parameter u
-  - Pure function
+  - Pure function h
   - Lambda expression
-  - Side effects
+  - Side effects h
   - Closure k
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe h
@@ -112,23 +112,23 @@
   - Instance
   - Object u
   - Collection
-  - Set
+  - Set h
   - Hash table
-  - Linked list
+  - Linked list h
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue h
+  - Stack h
   - Deque
   - Tree
   - Graph
   - Iterator
-  - Mutable state
+  - Mutable state h
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -147,7 +147,7 @@
   - Ahead-of-time compilation
   - Transpiler
   - Linter
-  - Polyfill
+  - Polyfill h
   - Interpreter
   - Linker
   - Dynamic linking
@@ -160,8 +160,8 @@
   - Debugger h
   - Tracing
   - Garbage collection
-  - Refactoring h
-  - Code review h
+  - Refactoring u
+  - Code review k
   - Exception
   - Unittesting
   - git k
@@ -171,14 +171,14 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers k
+  - Hard code k
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti h
   - Silver bullet
   - Not invented here
   - Dead code
@@ -190,7 +190,7 @@
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters h
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case
