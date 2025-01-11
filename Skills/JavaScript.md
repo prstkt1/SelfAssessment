@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - `Object` u
+  - `Object`: 🖐️ used
   - `Function`u
   - `Boolean`u
   - `Number`u
@@ -17,39 +17,39 @@
   - `...spread`
   - `...rest`u
   - `typeof`u
-  - Destructuring u
-  - Generators u
-  - Iterators u
+  - Destructuring: 🖐️ used
+  - Generators: 🖐️ used
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
-  - Chaining h
+  - Chaining: 👂 heard
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters k
-  - `__proto__` h
-  - `prototype` h
-  - Equality operators u
-  - Logical operators u
+  - Getters and setters: 🎓 known
+  - `__proto__`: 👂 heard
+  - `prototype`: 👂 heard
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator u
-  - `void` k
+  - Ternary operator: 🖐️ used
+  - `void`: 🎓 known
   - `yield`
   - `await`
   - Template literal
-  - Strict mode u
+  - Strict mode: 🖐️ used
   - Hoisting
-  - `delete` u
-  - `in` u
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt` h
-  - `Number.parseFloat` h
+  - `Number.parseInt`: 👂 heard
+  - `Number.parseFloat`: 👂 heard
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` k
-  - `for..of` u
-  - `for await` h
-  - `throw` u
-  - `break` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🎓 known
+  - `for..of`: 🖐️ used
+  - `for await`: 👂 heard
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
   - `continue`
-  - `import` h
-  - `export` h
+  - `import`: 👂 heard
+  - `export`: 👂 heard
   - `label`
-  - `try..catch` h
+  - `try..catch`: 👂 heard
   - `switch`
-  - `class` h
+  - `class`: 👂 heard
   - `extends`
   - `with`
-  - `new` h
+  - `new`: 👂 heard
 - Functions
-  - Arrow function u
+  - Arrow function: 🖐️ used
   - Async function
   - Function declaration
   - Function expression
@@ -90,9 +90,9 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array` u
-  - `Map` h
-  - `Set` h
+  - `Array`: 🖐️ used
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -101,22 +101,22 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date` h
-  - `Math` h
+  - `Date`: 👂 heard
+  - `Math`: 👂 heard
   - `Reflect`
-  - `Error` k
+  - `Error`: 🎓 known
   - `Atomics`
-  - `JSON` h
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` h
-  - `console` h
+  - `Promise`: 👂 heard
+  - `console`: 👂 heard
   - Timers
 - Infrastructure
-  - V8 h
-  - Node.js h
-  - npm k
-  - prettier u
+  - V8: 👂 heard
+  - Node.js: 👂 heard
+  - npm: 🎓 known
+  - prettier: 🖐️ used
   - MDN
   - TC39

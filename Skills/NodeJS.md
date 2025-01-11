@@ -99,18 +99,18 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console k
+  - Console: 🎓 known
   - Inspector
 - Data access
   - Data access layer
-  - Repository k
+  - Repository: 🎓 known
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` h
+  - `Error`: 👂 heard
   - `error.cause`
   - `error.code`
   - `error.message`
