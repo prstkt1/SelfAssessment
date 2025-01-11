@@ -99,11 +99,11 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console k
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository k
   - Active record
   - Query builder
   - Object-Relational Mapping
