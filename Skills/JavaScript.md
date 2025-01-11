@@ -1,55 +1,55 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` u
+  - `Function`u
+  - `Boolean`u
+  - `Number`u
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `String`u
+  - `Symbol`u
+  - `Infinity`u
+  - `NaN`u
+  - `undefined`u
+  - `null`u
+  - `this`u
+  - `instanceof`k
   - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
+  - `...rest`u
+  - `typeof`u
+  - Destructuring u
+  - Generators u
+  - Iterators u
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining h
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters k
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators u
+  - Logical operators u
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Ternary operator u
+  - `void` k
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode u
   - Hoisting
-  - `delete`
-  - `in`
+  - `delete` u
+  - `in` u
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt` h
+  - `Number.parseFloat` h
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` k
+  - `for..of` u
   - `for await`
-  - `throw`
-  - `break`
+  - `throw` u
+  - `break` u
   - `continue`
-  - `import`
-  - `export`
+  - `import` h
+  - `export` h
   - `label`
-  - `try..catch`
+  - `try..catch` h
   - `switch`
-  - `class`
+  - `class` h
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
   - Function declaration
   - Function expression
@@ -90,8 +90,8 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array` u
+  - `Map` h
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -104,19 +104,19 @@
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error`
+  - `Error` k
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` h
   - Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
+  - V8 h
+  - Node.js h
+  - npm k
+  - prettier u
   - MDN
   - TC39
