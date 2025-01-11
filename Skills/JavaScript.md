@@ -30,8 +30,8 @@
   - `globalThis`
   - `window`
   - Getters and setters k
-  - `__proto__`h
-  - `prototype`h
+  - `__proto__` h
+  - `prototype` h
   - Equality operators u
   - Logical operators u
   - Logical Assignment
