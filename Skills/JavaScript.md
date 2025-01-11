@@ -30,8 +30,8 @@
   - `globalThis`
   - `window`
   - Getters and setters k
-  - `__proto__`
-  - `prototype`
+  - `__proto__`h
+  - `prototype`h
   - Equality operators u
   - Logical operators u
   - Logical Assignment
@@ -65,7 +65,7 @@
   - `for` u
   - `for..in` k
   - `for..of` u
-  - `for await`
+  - `for await` h
   - `throw` u
   - `break` u
   - `continue`
@@ -77,7 +77,7 @@
   - `class` h
   - `extends`
   - `with`
-  - `new`
+  - `new` h
 - Functions
   - Arrow function u
   - Async function
@@ -92,7 +92,7 @@
 - Data structures
   - `Array` u
   - `Map` h
-  - `Set`
+  - `Set` h
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -101,8 +101,8 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` h
+  - `Math` h
   - `Reflect`
   - `Error` k
   - `Atomics`
@@ -110,7 +110,7 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` h
   - `console` h
   - Timers
 - Infrastructure
