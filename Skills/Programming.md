@@ -4,20 +4,20 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm u
-  - Syntax u
-  - Semantics
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 👂 heard
   - Abstraction
-  - Paradigm
-  - Programm u
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
   - Programming paradigm
-  - Programming language u
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library h
+  - Library: 👂 heard
   - Package
   - Component
-  - Framework h
+  - Framework: 👂 heard
   - Platform
   - Source code
   - Object code
@@ -32,29 +32,29 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
-  - Method k
-  - Class k
-  - Prototype
+  - Method: 🎓 known
+  - Class: 🎓 known
+  - Prototype: 👂 heard
   - Event
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops: 🎓 known
   - Assignment
   - Regular expression
-  - Interface
+  - Interface: 👂 heard
   - Namespaces
   - Call stack
   - Naming conventions
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature k
-  - Argument u
-  - Parameter u
-  - Pure function
+  - Signature: 🎓 known
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 👂 heard
   - Lambda expression
-  - Side effects
-  - Closure k
+  - Side effects: 👂 heard
+  - Closure: 🎓 known
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback: 👂 heard
   - Listener
   - Composition
-  - Pipe h
+  - Pipe: 👂 heard
   - Memoize
   - Wrapper
   - Functor
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object u
+  - Object: 🖐️ used
   - Collection
-  - Set
+  - Set: 👂 heard
   - Hash table
-  - Linked list
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue: 👂 heard
+  - Stack: 👂 heard
   - Deque
   - Tree
   - Graph
   - Iterator
-  - Mutable state
+  - Mutable state: 👂 heard
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -142,43 +142,43 @@
   - URN
   - URI
 - Process and tools
-  - Compiler u
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
-  - Polyfill
+  - Polyfill: 👂 heard
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine u
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
-  - Refactoring h
-  - Code review h
+  - Refactoring: 🖐️ used
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git k
-  - Github k
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
   - Dead code
@@ -190,7 +190,7 @@
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters: 👂 heard
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case
@@ -203,22 +203,22 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8 h
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers h
+  - Drivers: 👂 heard
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux k
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS h
-  - Windows u
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
